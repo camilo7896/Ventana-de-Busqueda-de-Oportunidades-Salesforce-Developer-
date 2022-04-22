@@ -1,3 +1,9 @@
+# Objective of the project
+In this project I designed a component to consult the amounts of the Opportunities.
+All this in order to put into practice the knowledge acquired in Salesforce Developer (Lightning Components).
+
+<h3>Imagen de la ventana</h3>
+<img src="force-app\main\default\img\Ventana Inicio _ Salesforce.png">
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
