@@ -1,0 +1,8 @@
+<apex:page controller="contactController">
+<center>
+<apex:form >
+<apex:page Title="Editar Contacto">
+</apex:page>
+</apex:form>
+</center>
+</apex:page>

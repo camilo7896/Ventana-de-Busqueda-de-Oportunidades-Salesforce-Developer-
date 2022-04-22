@@ -1,0 +1,12 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  <p>Lorem ipsumt</p>
+  <ul>
+      <li>lista1</li>
+      <li>lista1</li>
+      <li>lista1</li>
+  </ul>
+  This is your new Page: HolaMundo2
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
